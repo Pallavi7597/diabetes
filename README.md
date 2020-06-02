@@ -1,0 +1,2 @@
+# diabetes
+logistic reg model
